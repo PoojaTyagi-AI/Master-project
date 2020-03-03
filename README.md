@@ -1,2 +1,2 @@
-# Master-project
-Taxi trip duration: Prediction and Analysis
+# Masters Dissertation
+Taxi Trip Duration: Prediction and Analysis
